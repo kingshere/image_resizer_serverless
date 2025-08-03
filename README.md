@@ -7,6 +7,8 @@
 
 This project automates image resizing using a **serverless architecture** powered by AWS Lambda and S3. When an image is uploaded to a source S3 bucket, it automatically triggers a Lambda function that resizes the image and stores the output in a destination bucket.
 
+## Architecture
+<img width="975" height="716" alt="image" src="https://github.com/user-attachments/assets/5b41a67d-9a5d-4664-892e-74b08c59d010" />
 
 ---
 
